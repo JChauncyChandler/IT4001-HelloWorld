@@ -19,7 +19,12 @@ class ViewController: UIViewController {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
-
+    @IBAction func helloWorld_ClickHandler(_ sender: UIButton) {
+        
+    }
+    @IBAction func clearButton_ClickHandler(_ sender: Any) {
+    }
+    
 
 }
 
